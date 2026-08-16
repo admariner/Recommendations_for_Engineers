@@ -1130,6 +1130,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Przygody Przedsiębiorców](https://soundcloud.com/przygodyprzedsiebiorcow) (🇵🇱) ← interviews with entrepreneurs
 - [Startup my Way](https://startupmyway.com/) (🇵🇱) ← SaaS, startups, tech, future
 - [Ted Talks Business](https://www.ted.com/talks?topics%5B%5D=business)
+- [The Diary Of A CEO](https://stevenbartlett.com/doac/) ← Steven Bartlett interviews entrepreneurs, scientists, and experts about business, life, and success
 - [Więcej niż oszczędzanie pieniędzy](https://jakoszczedzacpieniadze.pl/podcast) (🇵🇱) ← how to spend money the right way
 
 ### cybersecurity
@@ -1574,6 +1575,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Jefferson Fisher](https://www.youtube.com/@jeffersonfisher) ← argue less and talk more
 - [Justin Sung](https://www.youtube.com/@JustinSung) ← studying and learning, time management
 - [MiroBurn](https://www.youtube.com/channel/UCwmFNbGnBeEy9nTt42F4WHw) (🇵🇱) ← daily vlog of Polish entrepreneur focused on online courses, biohacking, motivating others and establishing new companies
+- [The Diary Of A CEO](https://www.youtube.com/TheDiaryOfACEO) ← Steven Bartlett interviews entrepreneurs, scientists, and experts about business, life, and success
 - [Wojna Idei](https://www.youtube.com/channel/UC7RswyY8VfbSdikz_8wdp3w) (🇵🇱) ← psychology, philosophy, sociology and culture
 
 ### programming
