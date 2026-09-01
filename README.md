@@ -1592,6 +1592,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Gaurav Sen](https://www.youtube.com/c/GauravSensei/) ← one of the most talented YouTube teachers of Competitive programming, System design and Artificial intelligence
 - [Kevin Naughton Jr.](https://www.youtube.com/channel/UCKvwPt6BifPP54yzH99ff1g) ← LeetCode challenges solver
 - [Modern Software Engineering](https://www.youtube.com/@ModernSoftwareEngineeringYT) ← learn about the most important techniques in software development
+- [NetworkChuck](https://www.youtube.com/@NetworkChuck) ← networking, Linux and cybersecurity, with a focus on getting you through IT certifications
 - [Pasja Informatyki](https://www.youtube.com/user/MiroslawZelent) (🇵🇱) ← general IT/psychology channel
 - [ProgrammingKnowledge](https://www.youtube.com/user/ProgrammingKnowledge) ← one of the most varied programming channels
 - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA) ← lots of videos on Python, JavaScript, C#
@@ -1600,6 +1601,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Simplilearn](https://www.youtube.com/c/SimplilearnOfficial/) ← online bootcamp focused on helping people acquire the skills they need to thrive in the digital economy
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) ← one of the most enthusiastic coders on the web
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeagen) ← Vim, Rust, TypeScript with a lot of humor (also check the 2nd channel: [ThePrimeTime](https://www.youtube.com/@ThePrimeTimeagen))
+- [typecraft](https://www.youtube.com/@typecraft_dev) ← Neovim, tmux and building a terminal-centred Linux development environment
 - [UW-TEAM.org](https://www.youtube.com/c/uwteamorg) (🇵🇱) ← programming, Linux, security, and more
 - [WilliamFiset](https://www.youtube.com/user/purpongie) ← educational computer science and mathematics videos
 
