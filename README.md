@@ -871,7 +871,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [BetterTouchTool](https://folivora.ai/) ← customize various input devices
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
-  - [Monosnap](https://monosnap.com/) ← free alternative
+  - [macshot](https://github.com/sw33tLie/macshot) ← free open-source alternative
 - [DevUtils](https://devutils.com/) ← all-in-one toolbox for developers
   - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) ← free alternative
 - [espanso](https://espanso.org/) ← cross-platform text expander (you can find my settings [here](https://github.com/pyxelr/my-espanso-config))
