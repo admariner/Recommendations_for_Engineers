@@ -594,6 +594,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 As there are many, I highly encourage you to check my custom feeds:
 
+- [~ai_agents](https://www.reddit.com/user/pyxelr/m/ai_agents/)
 - [~data_science](https://www.reddit.com/user/pyxelr/m/data_science/)
 - [~data_tools](https://www.reddit.com/user/pyxelr/m/data_tools/)
 - [~data_viz](https://www.reddit.com/user/pyxelr/m/data_viz/)
