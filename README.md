@@ -899,7 +899,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Orbstack](https://orbstack.dev/) ← faster alternative for Docker Desktop
 - [PDF Reader Pro](https://www.pdfreaderpro.com/mac) ← best PDF editor as per [this comparison](https://docs.google.com/spreadsheets/d/1pCt75tHayO_QJO2swREcZEgAFEhrm9-3pnDogh5kpRM/)
 - [QSpace Pro](https://qspace.awehunt.com/en-us/index.html) ← more advanced Finder
-- [Raycast](https://www.raycast.com/) ← alternative to Alfred
+- [Raycast](https://www.raycast.com/) ← alternative to Alfred (you can find my settings [here](https://pawelcislo.com/knowledge/software/raycast/))
 - [Sloth](https://github.com/sveinbjornt/Sloth) ← show all open files, directories, sockets, pipes and devices in use by all running processes
 - [SoundSource](https://rogueamoeba.com/soundsource/) ← advanced audio controls
 - [System Color Picker](https://apps.apple.com/pl/app/system-color-picker/id1545870783?mt=12) ← built-in color picker
@@ -1432,6 +1432,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html) ← SSH and telnet client
 - [qBittorrent](https://www.qbittorrent.org/) ← open-source torrent manager
 - [QuickLook](https://github.com/QL-Win/QuickLook) ← bring macOS "Quick Look" feature to Windows
+- [Raycast](https://www.raycast.com/windows) ← extendable launcher (I find it better than PowerToys Run). You can find my settings [here](https://pawelcislo.com/knowledge/software/raycast/)
 - [Rufus](https://rufus.ie/) ← create bootable USB drives
 - [scoop](https://scoop.sh/) ← command-line installer for Windows
 - [ScreenToGif](https://www.screentogif.com/) ← simple screen recorder with an integrated editor
