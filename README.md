@@ -697,7 +697,7 @@ As there are many, I highly encourage you to check my custom feeds:
 > [!NOTE]
 > I've explained my way of using flashcards (mainly Anki) thoroughly in [this blog post](https://pawelcislo.com/2020/07/10/optimising-our-learning-retention-rate-with-srs-anki/).
 
-- [Anki](https://apps.ankiweb.net/) ← my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards)
+- [Anki](https://apps.ankiweb.net/) ← my favourite software to learn through spaced repetition and active learning in mobile and open-source PC app. Make sure to [check out my own decks](https://github.com/pyxelr/my-anki-decks-of-flashcards), and you can find my settings [here](https://pawelcislo.com/knowledge/software/anki/)
 - [flashcards.wizardzines](https://flashcards.wizardzines.com/) ← set of flashcards from Julia Evans
 - [Flashcards for Developers](https://www.flashcardsfordevelopers.com/) ← online flashcards based mostly on programming skills
 - [Fluent Forever](https://fluent-forever.com/) ← paid application to study languages. You can also read its [accompanying book](https://www.goodreads.com/book/show/22304017-fluent-forever) and watch the [author’s comparison between FF and Anki](https://youtu.be/fepSv0fqg5U)
@@ -864,12 +864,12 @@ As there are many, I highly encourage you to check my custom feeds:
 > For more, visit my [macOS notes](https://pawelcislo.com/knowledge/macos/macos/).
 
 - [AirBuddy](https://v2.airbuddy.app/) ← control wireless devices
-- [Alfred](https://www.alfredapp.com/) ← extendable launcher
+- [Alfred](https://www.alfredapp.com/) ← extendable launcher (you can find my settings [here](https://pawelcislo.com/knowledge/software/alfred/))
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704) ← keep your screen awake
 - [Automator](https://support.apple.com/en-gb/guide/automator/welcome/mac) ← built-in app to create workflows
 - [Bartender](https://www.macbartender.com/) ← take control of menu bar
 - [BetterSnapTool](https://folivora.ai/bettersnaptool) ← easily manage your window positions
-- [BetterTouchTool](https://folivora.ai/) ← customize various input devices
+- [BetterTouchTool](https://folivora.ai/) ← customize various input devices (you can find my settings [here](https://pawelcislo.com/knowledge/software/bettertouchtool/))
 - [BetterZip](https://macitbetter.com/) ← next generation of archiving
 - [CleanShot X](https://cleanshot.com/) ← screenshot tool
   - [macshot](https://github.com/sw33tLie/macshot) ← free open-source alternative
@@ -882,7 +882,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Homebrew](https://brew.sh/) ← package manager for macOS
 - [iStatistica Pro](https://www.imagetasks.com/istatistica/pro/) (with iStatistica Sensors) ← system monitoring
 - [Itsycal](https://www.mowglii.com/itsycal/) ← tiny menu bar calendar
-- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer
+- [Karabiner-Elements](https://karabiner-elements.pqrs.org/) ← keyboard customizer (you can find my settings [here](https://pawelcislo.com/knowledge/software/karabiner-elements/))
 - [Keyboard Maestro](https://www.keyboardmaestro.com/main/) ← macOS automation software
 - [lima](https://github.com/lima-vm/lima) ← launch Linux virtual machines with automatic file sharing and port forwarding (similar to WSL2)
 - [Little Snitch](https://www.obdev.at/products/littlesnitch/index.html) ← host-based application firewall for macOS
@@ -908,7 +908,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Transmit](https://panic.com/transmit/) ← upload, download, and manage files on tons of servers
 - [UnnaturalScrollWheels](https://github.com/ther0n/UnnaturalScrollWheels) ← invert scroll direction for mouse & trackpad
 - [Xcode Command Line Tools](https://mac.install.guide/commandlinetools/index.html) ← tools for software developers that run on the command line
-- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
+- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](https://pawelcislo.com/knowledge/software/zed/)
 
 **[⬆ Back to Contents](#contents)**
 
@@ -1216,7 +1216,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [lofi.cafe](https://lofi.cafe/) ← online radio to focus and relax
 - [Make](https://www.make.com/en) ← automate various tasks (more advanced than [IFTTT](https://ifttt.com/) and 2.5x cheaper than [Zapier](https://zapier.com/))
 - Monochrome mode (grayscale mode) activation on your mobile device ← be less attracted to the colourless screen
-- [Obsidian](https://obsidian.md/) ← my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files
+- [Obsidian](https://obsidian.md/) ← my favourite powerful knowledge base (note-taking tool) that works on top of a local folder of plain text Markdown files. You can find my settings [here](https://pawelcislo.com/knowledge/software/obsidian/)
 - [OneNote Desktop](https://www.onenote.com/download) ← note-taking tool from Microsoft (desktop version is much more feature-rich than the UWP app)
   - [Office OneNote Gem Add-Ins](https://www.onenotegem.com/) ← lots of plugins for different versions of OneNote
   - [Onetastic](https://getonetastic.com/) ← set of extensions for OneNote
@@ -1265,7 +1265,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Google Colab](https://colab.research.google.com/) ← alternative to Jupyter Notebook. Run your code entirely in the browser and improve the model learning time by leveraging Google's GPU/TPU
 - [PyCharm](https://www.jetbrains.com/pycharm/) ← more robust Python IDE
 - [Visual Studio Code](https://code.visualstudio.com/) ← highly extensible IDE from Microsoft (explained thoroughly in [My VS Code Playground](https://pawelcislo.com/2021/11/14/my-vs-code-playground/) blog post)
-- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text)
+- [Zed](https://github.com/zed-industries/zed) ← open-source code editor written in Rust (my replacement for Sublime Text). You can find my settings [here](https://pawelcislo.com/knowledge/software/zed/)
 
 ### online tools
 
