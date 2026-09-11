@@ -790,6 +790,7 @@ As there are many, I highly encourage you to check my custom feeds:
 - [Starship](https://github.com/starship/starship) ← prompt for any shell ([customize it](https://starship.rs/config/#configuration), e.g. to disable the package module)
 - [tealdeer](https://github.com/dbrgn/tealdeer) ← very fast implementation of tldr in Rust
 - [tree](http://mama.indstate.edu/users/ice/tree/) ← display directories as trees (with optional color/HTML output)
+- [zoxide](https://github.com/ajeetdsouza/zoxide) ← smarter `cd` that jumps to your most-used directories
 - [zsh](https://www.zsh.org/) ← shell designed for interactive use, although it is also a powerful scripting language
 - [zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions) ← fish-like autosuggestions for Zsh
 - [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) ← Fish-shell-like syntax highlighting for Zsh
